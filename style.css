@@ -305,6 +305,10 @@
         align-items: center;
         text-align: center;
     }
+    .left{
+        padding-right: 50px;
+    }
+     
     .rnavbar {
         display: none;
     }
